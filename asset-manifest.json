@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lightning/static/css/main.94934c20.css",
+    "main.js": "/lightning/static/js/main.e692249e.js",
+    "index.html": "/lightning/index.html",
+    "main.94934c20.css.map": "/lightning/static/css/main.94934c20.css.map",
+    "main.e692249e.js.map": "/lightning/static/js/main.e692249e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94934c20.css",
+    "static/js/main.e692249e.js"
+  ]
+}
